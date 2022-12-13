@@ -1,8 +1,7 @@
 /* 
  * Create two variables a and b with the same value in each.
  * First declare a and then set b equal to a.
- *
-/
+ */
 
 
 
