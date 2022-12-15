@@ -24,7 +24,7 @@ Division Operator - The divide operator takes two inputs and divides the left-si
 Random Ranges
 The function Math.random generates a number between 0 and 1, not including 1.
 
-If we wanted to generate a random number between 0 and 100, we could simply multiply the output:
+Random- If we wanted to generate a random number between 0 and 100, we could simply multiply the output:
 
 // randomNumber will be between 0 and 100
 const randomNumber = Math.random() * 100;
@@ -33,3 +33,6 @@ Similarily, if we wanted to get a random number between 25 and 100, we could mul
 // randomNumber will be between 25 and 100
 const randomNumber = (Math.random() * 75) + 25;
 The actual number here will include values after the decimal point, like 81.00635445515044. We'll learn in the next stage how to trim those values to make it an integer.
+
+Floor
+The function will round a number down to the nearest integer. For example if we had the number, 2.9999, the function will round this input down to 2.
