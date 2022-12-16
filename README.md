@@ -1,6 +1,6 @@
 # JavaScript-Fundamentals AU
 
-## JavaScript Basics
+## JAVASCRIPT BASICS
 
 ## Intro to Javascript
 Variable - A key feature of programming languages is the ability to store some value for later use. We store values in something called a variable.
@@ -36,3 +36,5 @@ The actual number here will include values after the decimal point, like 81.0063
 
 Floor
 The function will round a number down to the nearest integer. For example if we had the number, 2.9999, the function will round this input down to 2.
+
+## Conditionals
