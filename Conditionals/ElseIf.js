@@ -5,8 +5,10 @@ If either purchasedSubscription or freeTrial are true, return true. Otherwise re
 */
 
 function canAccess(purchasedSubscription, freeTrial) {
-    if (purchasedSubscription === true || freeTrial===true)
+    if (purchasedSubscription === true )
     return true
+    else if (freeTrial===true)
+    return true;
     else
     return false
 }
