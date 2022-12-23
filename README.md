@@ -52,3 +52,11 @@ Greater/ Less Than Operators -> The > and < will evaluate to false if the operan
 Greater/Less than equal to Operator -> Unlike the > and < operators, both >= and <= will evaluate to true when the operands are equal.
 
 Else if -> It is used to Choose between more than two conditions and if the condition does not match the else statement is executed .
+
+## Loops
+
+Loops -> Often we need to write code to repeatedly do some task until a certain condition is met. This is where we can use loops!
+
+Factorial -> A factorial is the product of all positive integers greater than 0 up to and including the factorial number n.
+
+Modulus Operator -> This operator is called the modulus operator. It will tell us the remainder of a division.
