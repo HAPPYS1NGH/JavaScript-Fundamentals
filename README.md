@@ -60,3 +60,13 @@ Loops -> Often we need to write code to repeatedly do some task until a certain 
 Factorial -> A factorial is the product of all positive integers greater than 0 up to and including the factorial number n.
 
 Modulus Operator -> This operator is called the modulus operator. It will tell us the remainder of a division.
+
+
+## DATA STORAGE
+
+## String Manipulation
+
+Looking Characters -> In JavaScript, you can look up characters in strings by index. There are two ways to do this: with charAt or square brackets ([]).
+
+Character Casing -> Often with strings we want to ignore the character casing. We want to find "x" whether it is lower-case "x" or upper-case "X". //"Hello".toLowerCase() 
+
