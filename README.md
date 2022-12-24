@@ -68,5 +68,8 @@ Modulus Operator -> This operator is called the modulus operator. It will tell u
 
 Looking Characters -> In JavaScript, you can look up characters in strings by index. There are two ways to do this: with charAt or square brackets ([]).
 
-Character Casing -> Often with strings we want to ignore the character casing. We want to find "x" whether it is lower-case "x" or upper-case "X". //"Hello".toLowerCase() 
+Character Casing -> Often with strings we want to ignore the character casing. We want to find "x" whether it is lower-case "x" or upper-case "X".          //"Hello".toLowerCase() 
 
+String Length -> An important property built-in to strings is length. We can easily look up how many characters are stored in a string by accessing this property:      //string.length 
+
+IndexOf -> There is a method on strings called indexOf that will help us find the first index of a string. If the index is not found, indexOf will return a -1.
