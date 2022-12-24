@@ -16,4 +16,4 @@ function sortByMonth(events) {
     )
 }
 
-module.exports = sortByMonth;
+module.exports = sortByMonth; 
