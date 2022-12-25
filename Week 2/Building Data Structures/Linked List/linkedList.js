@@ -36,6 +36,7 @@ class LinkedList {
     removeAt(index){
         if(index === 0 ){
             this.head = this.head.next;
+            return
         }
         
         let n = this.head;
