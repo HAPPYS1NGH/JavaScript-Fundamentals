@@ -82,3 +82,5 @@ We can also use negative arguments to slice strings starting from the end of the
 Array -> An array starts with an open square bracket [ and ends with a closed square bracket ]. The elements inside the array are separated by a comma ,.
 
 Index ->Just like strings, arrays have zero-based indexes. This means that the first element in the array is at index 0, then 1, then 2
+
+IndexOf -> Just like strings, it returns the first occurance value index of th element.
