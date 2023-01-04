@@ -84,3 +84,5 @@ Array -> An array starts with an open square bracket [ and ends with a closed sq
 Index ->Just like strings, arrays have zero-based indexes. This means that the first element in the array is at index 0, then 1, then 2
 
 IndexOf -> Just like strings, it returns the first occurance value index of th element.
+
+Splice -> Slice allows us to pass two parameters: a start index and an end index.The first argument is the starting index where we'd like to start the removal of elements . The second argument is the number of elements we'd like to remove beginning at the starting index. 
