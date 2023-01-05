@@ -86,3 +86,10 @@ Index ->Just like strings, arrays have zero-based indexes. This means that the f
 IndexOf -> Just like strings, it returns the first occurance value index of th element.
 
 Splice -> Slice allows us to pass two parameters: a start index and an end index.The first argument is the starting index where we'd like to start the removal of elements . The second argument is the number of elements we'd like to remove beginning at the starting index. 
+
+## Objects
+
+Objects ->In JavaScript, objects start with a open curly-brace { and end with a close curly-brace }. We can put key-value pairs in between these braces.
+
+Retrieval ->If we wanted to retrieve the name of the team, we can do this in two ways: We can use the . property accessor operator or we can use brackets [] just like with arrays!
+
