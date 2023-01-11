@@ -95,3 +95,4 @@ Retrieval ->If we wanted to retrieve the name of the team, we can do this in two
 
 Enumerations ->  The type of object in which we explicitly describe and set the value in a list with the key defining the purpose than some vague value is commonly referred to as an Enumeration. As with any pre-defined constant, it's common to use UPPER_SNAKE_CASE for enumerations in JavaScript
 
+## Array Mapping
