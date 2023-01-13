@@ -75,7 +75,7 @@ String Length -> An important property built-in to strings is length. We can eas
 IndexOf -> There is a method on strings called indexOf that will help us find the first index of a string. If the index is not found, indexOf will return a -1.
 
 Slice -> Slice allows us to pass two parameters: a start index and an end index. The resulting string will be a sliced string between those two indexes, not including the character located at the end index. 
-We can also use negative arguments to slice strings starting from the end of the string!
+We can also use negative arguments to slice strings starting from the end of the !
 
 ## Arrays
 
