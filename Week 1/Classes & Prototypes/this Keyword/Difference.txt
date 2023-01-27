@@ -1,0 +1,5 @@
+call: binds the this value, invokes the function, and allows you to pass a list of arguments.
+
+apply: binds the this value, invokes the function, and allows you to pass arguments as an array.
+
+bind: binds the this value, returns a new function, and allows you to pass in a list of arguments.(We need to invoke the function when we want to use.)
